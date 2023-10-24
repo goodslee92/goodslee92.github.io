@@ -113,12 +113,14 @@ content:
         sub_title: 컴퓨터계열 시스템프로그래밍 전공
         quote: >
           졸업
+        description: |
 
       - title: 도원고등학교
         cation: 2008 ~ 2011
         sub_title: 인문계열
         quote: >
           졸업
+        description: |
 
   - title: Skills
     layout: text

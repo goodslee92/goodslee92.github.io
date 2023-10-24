@@ -125,13 +125,13 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <mark>기술 스택</mark>
-      Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
-      <mark>기타 툴</mark>
-      Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
+      <mark>기술 스택</mark> <br>
+      Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc <br>
+      <mark>기타 툴</mark> <br>
+      Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc <br>
 
   - title: 자격증
-    layout: text
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
       新JLPT 2급
 

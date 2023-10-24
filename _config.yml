@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 이 재화
-title: Senior BackEnd System Engineer
+title: Senior BackEnd Developer
 email: leejh3810@gmail.com
 website: https://github.com/goodslee92
 
@@ -15,7 +15,7 @@ website: https://github.com/goodslee92
 darkmode: false
 
 # Social links
-github_username:  goodslee92
+github_username: goodslee92
 instagram_username: jh._.zzzz
 
 # Additional icon links
@@ -28,10 +28,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   안녕하세요. 이 재화입니다. 저는 웹 어플리케이션 백엔드 개발자입니다. 
+  안녕하세요. 이 재화입니다. 저는 웹 어플리케이션 백엔드 개발자입니다. 
   시스템 개발 및 운영 경험과 안드로이드 앱 개발 경험이 있습니다. 뿐만 아니라 프로젝트 관리 경험도 있습니다.
   
-   저는 여러 회사에서 팀워크와 리더십 스킬을 쌓았습니다. 
+  저는 여러 회사에서 팀워크와 리더십 스킬을 쌓았습니다. 
   특히 일본 도쿄에서 약 7년간 금융, 통신업, 건설, 보험, 연금 등의 각종 분야에서 새로운 스킬에 도전하며 글로벌 기업에서 경험을 쌓아왔습니다.
   
   저의 주요 기술 스택은 <mark>Java</mark> 와 <mark>Kotlin</mark> 입니다.

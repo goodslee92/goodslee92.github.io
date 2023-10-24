@@ -19,10 +19,10 @@ github_username: goodslee92
 instagram_username: jh._.zzzz
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 
 # About Section
 # about_title: About Me
@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
   저는 여러 회사에서 팀워크와 리더십 스킬을 쌓았습니다. 
   특히 일본 도쿄에서 약 7년간 금융, 통신업, 건설, 보험, 연금 등의 각종 분야에서 새로운 스킬에 도전하며 글로벌 기업에서 경험을 쌓아왔습니다.
   
-  저의 주요 기술 스택은 <mark>Java</mark> 와 <mark>Kotlin</mark> 입니다.
+  저의 주요 기술 스택은 <mark>Java</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대한 도전 정신</mark> 입니다.
 
 content:
   - title: Projects # Title for the section

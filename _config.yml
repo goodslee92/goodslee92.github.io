@@ -131,7 +131,7 @@ content:
       Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc <br>
 
   - title: 자격증
-    layout: top-middle
+    layout: text
     content: | # this will include new lines to allow paragraphs
       新JLPT 2급
 

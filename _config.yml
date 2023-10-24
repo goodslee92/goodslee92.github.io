@@ -83,9 +83,9 @@ content:
         sub_title: Project Leader, Web Application BackEnd Developer
         caption: August 2023 ~ Present
         quote: >
-
+          quote..
         description: | # this will include new lines to allow paragraphs
-          
+          description..
 
       - title: (주)브릿지
         sub_title: Android App Developer, Web Application BackEnd Developer
@@ -107,31 +107,35 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+      - layout: top-middle
+        title: 영남이공대학교
+        caption: 2011 ~ 2016
+        sub_title: 컴퓨터계열 시스템프로그래밍 전공
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          졸업
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - title: 도원고등학교
+        cation: 2008 ~ 2011
+        sub_title: 인문계열
+        quote: >
+          졸업
 
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      <mark>기술 스택<mark>
+      Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
+      <mark>기타 툴<mark>
+      Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: 자격증
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      新JLPT 2급
+      
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings

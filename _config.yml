@@ -110,30 +110,27 @@ content:
       - layout: top-middle
         title: 영남이공대학교
         caption: 2011 ~ 2016
-        sub_title: 컴퓨터계열 시스템프로그래밍 전공
-        quote: >
-          졸업
-        description: |
+        sub_title: 컴퓨터계열 시스템프로그래밍 전공 <br> 졸업
 
       - title: 도원고등학교
         cation: 2008 ~ 2011
-        sub_title: 인문계열
-        quote: >
-          졸업
-        description: |
+        sub_title: 인문계열 <br> 졸업
 
   - title: Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      <mark>기술 스택</mark> <br>
-      Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc <br>
-      <mark>기타 툴</mark> <br>
-      Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc <br>
+    layout: list
+    content:
+      - layout: top-middle
+        title: 기술 스택
+        sub_title: Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
+
+      - title: 기타 툴
+        sub_title: Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
 
   - title: 자격증
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      新JLPT 2급
+    layout: list
+    content:
+      - layout: top-middle
+        title: 新JLPT 2급
 
 # Footer
 footer_show_references: false

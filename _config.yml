@@ -1,5 +1,5 @@
 # Site
-repository: goodslee92.github.io
+repository: goodslee92/goodslee92.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -51,88 +51,88 @@ content:
           기술스택
           - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN
 
-#      - title: Sony Android Smart Tv App Develop
-#        sub_title:  Sub Leader, System Engineer
-#        caption: July 2020 - May 2023
-#        quote: >
-#          Android Tv App 개발
-#        description: | # this will include new lines to allow paragraphs
-#          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
-#          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
-#          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
-#          기술스택
-#          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
-#
-#      - title: Sony Android Smart Tv App Develop
-#        sub_title:  Sub Leader, System Engineer
-#        caption: July 2020 - May 2023
-#        quote: >
-#          Android Tv App 개발
-#        description: | # this will include new lines to allow paragraphs
-#          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
-#          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
-#          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
-#          기술스택
-#          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
-#
-#  - title: Experience # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: 한국후지쯔(주)
-#        sub_title: Project Leader, Web Application BackEnd Developer
-#        caption: August 2023 ~ Present
-#        quote: >
-#          quote..
-#        description: | # this will include new lines to allow paragraphs
-#          description..
-#
-#      - title: (주)브릿지
-#        sub_title: Android App Developer, Web Application BackEnd Developer
-#        caption: December 2018 ~ March 2023
-#        quote: >
-#          웹 어플리케이션 개발 및 운영.
-#          안드로이드 앱 개발 및 운영.
-#        description: | # this will include new lines to allow paragraphs
-#          하기 프로젝트 참여.
-#
-#      - title: (주)Nuvo Cyber Business
-#        sub_title:  System Engineer
-#        caption: July 2016 ~ November 2018
-#        quote: >
-#          웹 어플리케이션 개발 및 운영.
-#        description: | # this will include new lines to allow paragraphs
-#          하기 프로젝트 참여.
-#
-#  - title: Education # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: 영남이공대학교
-#        caption: 2011 ~ 2016
-#        sub_title: 컴퓨터계열 시스템프로그래밍 전공
-#        quote: >
-#          졸업
-#
-#      - title: 도원고등학교
-#        cation: 2008 ~ 2011
-#        sub_title: 인문계열
-#        quote: >
-#          졸업
-#
-#  - title: Skills
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      <mark>기술 스택</mark>
-#      Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
-#      <mark>기타 툴</mark>
-#      Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
-#
-#  - title: 자격증
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      新JLPT 2급
-#
+      - title: Sony Android Smart Tv App Develop
+        sub_title:  Sub Leader, System Engineer
+        caption: July 2020 - May 2023
+        quote: >
+          Android Tv App 개발
+        description: | # this will include new lines to allow paragraphs
+          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
+          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
+          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
+          기술스택
+          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
+
+      - title: Sony Android Smart Tv App Develop
+        sub_title:  Sub Leader, System Engineer
+        caption: July 2020 - May 2023
+        quote: >
+          Android Tv App 개발
+        description: | # this will include new lines to allow paragraphs
+          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
+          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
+          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
+          기술스택
+          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 한국후지쯔(주)
+        sub_title: Project Leader, Web Application BackEnd Developer
+        caption: August 2023 ~ Present
+        quote: >
+          quote..
+        description: | # this will include new lines to allow paragraphs
+          description..
+
+      - title: (주)브릿지
+        sub_title: Android App Developer, Web Application BackEnd Developer
+        caption: December 2018 ~ March 2023
+        quote: >
+          웹 어플리케이션 개발 및 운영.
+          안드로이드 앱 개발 및 운영.
+        description: | # this will include new lines to allow paragraphs
+          하기 프로젝트 참여.
+
+      - title: (주)Nuvo Cyber Business
+        sub_title:  System Engineer
+        caption: July 2016 ~ November 2018
+        quote: >
+          웹 어플리케이션 개발 및 운영.
+        description: | # this will include new lines to allow paragraphs
+          하기 프로젝트 참여.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 영남이공대학교
+        caption: 2011 ~ 2016
+        sub_title: 컴퓨터계열 시스템프로그래밍 전공
+        quote: >
+          졸업
+
+      - title: 도원고등학교
+        cation: 2008 ~ 2011
+        sub_title: 인문계열
+        quote: >
+          졸업
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <mark>기술 스택</mark>
+      Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
+      <mark>기타 툴</mark>
+      Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
+
+  - title: 자격증
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      新JLPT 2급
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)

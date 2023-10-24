@@ -7,9 +7,8 @@ version: 2
 
 # Personal info
 name: 이 재화
-title: Senior Engineer
+title: Senior BackEnd System Engineer
 email: leejh3810@gmail.com
-       ljh6184@naver.com
 website: https://github.com/goodslee92
 
 # Dark Mode (true/false/never)
@@ -29,9 +28,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 이 재화입니다. 저는 웹 어플리케이션 백엔드 개발자입니다. 
-  저는 시스템 개발 및 운영 경험과 안드로이드 앱 개발 경험이 있습니다. 뿐만 아니라 프로젝트 관리 경험도 있습니다.
-  저는 여러 회사에서 팀워크와 리더십 스킬을 쌓았습니다.
+   안녕하세요. 이 재화입니다. 저는 웹 어플리케이션 백엔드 개발자입니다. 
+  시스템 개발 및 운영 경험과 안드로이드 앱 개발 경험이 있습니다. 뿐만 아니라 프로젝트 관리 경험도 있습니다.
+  
+   저는 여러 회사에서 팀워크와 리더십 스킬을 쌓았습니다. 
+  특히 일본 도쿄에서 약 7년간 금융, 통신업, 건설, 보험, 연금 등의 각종 분야에서 새로운 스킬에 도전하며 글로벌 기업에서 경험을 쌓아왔습니다.
   
   저의 주요 기술 스택은 <mark>Java</mark> 와 <mark>Kotlin</mark> 입니다.
 
@@ -39,35 +40,69 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: left
+        title: BGF Global Back Office System
+        sub_title: Project Leader, Senior BackEnd Developer
+        caption: August 2023 - Present
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          BGF글로벌 백 오피스 시스템 운영 및 관리
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          BGF글로벌 카자흐스탄, 몽골, 베트남 등 백오피스 시스템의 설계, 개발, 테스트, 오픈, 운영 및 멤버 관리를 담당하였습니다. <br>
+          기술스택
+          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN
+
+      - title: Sony Android Smart Tv App Develop
+        sub_title:  Sub Leader, System Engineer
+        caption: July 2020 - May 2023
+        quote: >
+          Android Tv App 개발
+        description: | # this will include new lines to allow paragraphs
+          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
+          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다. 
+          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
+          기술스택
+          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
+
+      - title: Sony Android Smart Tv App Develop
+        sub_title:  Sub Leader, System Engineer
+        caption: July 2020 - May 2023
+        quote: >
+          Android Tv App 개발
+        description: | # this will include new lines to allow paragraphs
+          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
+          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다. 
+          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
+          기술스택
+          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: 한국후지쯔(주)
+        sub_title: Project Leader, Web Application BackEnd Developer
+        caption: August 2023 ~ Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          
+
+      - title: (주)브릿지
+        sub_title: Android App Developer, Web Application BackEnd Developer
+        caption: December 2018 ~ March 2023
+        quote: >
+          웹 어플리케이션 개발 및 운영.
+          안드로이드 앱 개발 및 운영.
+        description: | # this will include new lines to allow paragraphs
+          하기 프로젝트 참여.
+
+      - title: (주)Nuvo Cyber Business
+        sub_title:  System Engineer
+        caption: July 2016 ~ November 2018
+        quote: >
+          웹 어플리케이션 개발 및 운영.
+        description: | # this will include new lines to allow paragraphs
+          하기 프로젝트 참여.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

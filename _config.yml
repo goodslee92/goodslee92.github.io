@@ -28,16 +28,16 @@ instagram_username: jh._.zzzz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 이 재화입니다. 저는 웹 어플리케이션 백엔드 개발자입니다. 
+  안녕하세요. 이 재화입니다. 저는 백엔드 개발자입니다. 
   시스템 개발 및 운영 경험과 안드로이드 앱 개발 경험이 있습니다. 뿐만 아니라 프로젝트 관리 경험도 있습니다.
   
   저는 여러 회사에서 팀워크와 리더십 스킬을 쌓았습니다. 
   특히 일본 도쿄에서 약 7년간 금융, 통신업, 건설, 보험, 연금 등의 각종 분야에서 새로운 스킬에 도전하며 글로벌 기업에서 경험을 쌓아왔습니다.
   
-  저의 주요 기술 스택은 <mark>Java</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대한 도전 정신</mark> 입니다.
+  저의 주요 기술 스택은 <mark>Java</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대해 끊임없이 탐구하고 도전하는 정신</mark> 입니다.
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects(Korea) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -49,9 +49,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           BGF글로벌 카자흐스탄, 몽골, 베트남 등 백오피스 시스템의 설계, 개발, 테스트, 오픈, 운영 및 멤버 관리를 담당하였습니다.
           기술스택
-          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN
+          - Java, JSP/Servlet, AxBoot, MSSQL
+          - Eclipse, IntelliJ
+          - Git, SVN, Dooray, Slack, Microsoft Teams
 
-      - title: Sony Android Smart Tv App Develop
+  - title: Projects(Japan)
+    layout: list
+    content:
+      - layout : left
+        title: Sony Android Smart Tv App Development
         sub_title:  Sub Leader, System Engineer
         caption: July 2020 - May 2023
         quote: >
@@ -61,10 +67,12 @@ content:
           Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
           MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
           기술스택
-          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
+          - Java, Kotlin, Dagger, Hilt, Databinding, Courtines, Python, Ruby, ORACLE
+          - Android Studio, Visual Studio Code, Appium
+          - Github, Jenkins, AWS, JIRA, Counfluence, SourceTree, Astah, Microsoft Teams
 
-      - title: Sony Android Smart Tv App Develop
-        sub_title:  Sub Leader, System Engineer
+      - title:
+        sub_title: System Engineer
         caption: July 2020 - May 2023
         quote: >
           Android Tv App 개발

@@ -133,11 +133,12 @@ content:
         caption: 2008 ~ 2011 <br> 졸업
 
   - title: A Little More About Me
-    layout: text
+    layout: list
     content:
       - layout: top-middle
-        content: |
-          시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다.
+        title: 시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다.
+        sub_title: |
+          
           - 게임
           - 영화 감상
           - 드라이브

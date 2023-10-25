@@ -113,32 +113,29 @@ content:
         quote: >
           Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
         description: | # this will include new lines to allow paragraphs
-
+          .
       - title: 기타 툴
         #        sub_title:
         quote: >
           Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
         description: | # this will include new lines to allow paragraphs
+          .
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: 영남이공대학교
-        sub_title: 컴퓨터계열 시스템프로그래밍 전공
-        caption: 2011 ~ 2016 <br> 졸업
         quote: >
-          <br>
+          컴퓨터계열 시스템프로그래밍 전공
         description: | # this will include new lines to allow paragraphs
-          <br>
+          2011 ~ 2016 <br> 졸업
 
       - title: 도원고등학교
-        sub_title: 인문계열
-        cation: 2008 ~ 2011 <br> 졸업
         quote: >
-          <br>
+          인문계열
         description: | # this will include new lines to allow paragraphs
-          <br>
+          2008 ~ 2011 <br> 졸업
 
   - title: 자격증
     layout: list

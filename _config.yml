@@ -112,34 +112,35 @@ content:
         sub_title: 컴퓨터계열 시스템프로그래밍 전공
         caption: 2011 ~ 2016 <br> 졸업
         quote: >
-
+          <br>
         description: | # this will include new lines to allow paragraphs
-          
+          <br>
 
       - title: 도원고등학교
         sub_title: 인문계열
         cation: 2008 ~ 2011 <br> 졸업
         quote: >
-
+          <br>
         description: | # this will include new lines to allow paragraphs
-          
+          <br>
 
   - title: Skills
     layout: list
     content:
       - layout: top-middle
         title: 기술 스택
-        sub_title: Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
+#        sub_title: Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
         quote: >
-
+          Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
         description: | # this will include new lines to allow paragraphs
+          Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
 
       - title: 기타 툴
-        sub_title: Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
+#        sub_title: Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
         quote: >
-
+          Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
         description: | # this will include new lines to allow paragraphs
-          
+          Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
 
   - title: 자격증
     layout: list

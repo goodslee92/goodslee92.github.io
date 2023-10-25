@@ -48,8 +48,8 @@ content:
         quote: >
           BGF글로벌 백 오피스 시스템 운영 및 관리
         description: | # this will include new lines to allow paragraphs
-          BGF글로벌 카자흐스탄, 몽골, 베트남 등 백오피스 시스템의 설계, 개발, 테스트, 오픈, 운영 및 멤버 관리를 담당하였습니다.
-          기술스택
+          BGF글로벌 카자흐스탄, 몽골, 베트남 등 백오피스 시스템의 설계, 개발, 테스트, 오픈, 운영 및 멤버 관리를 담당하였습니다. <br>
+          <mark>기술스택</mark><br>
           - Java, JSP/Servlet, AxBoot, MSSQL
           - Eclipse, IntelliJ
           - Git, SVN, Dooray, Slack, Microsoft Teams
@@ -62,13 +62,13 @@ content:
         sub_title:  Sub Leader, System Engineer
         caption: July 2020 - May 2023
         quote: >
-          Android Tv App 개발
+          Android Smart Tv App 개발
         description: | # this will include new lines to allow paragraphs
-          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
-          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
-          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
-          기술스택
-          - Java, Kotlin, Dagger, Hilt, Databinding, Courtines, Python, Ruby, ORACLE
+          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.<br>
+          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.<br>
+          지상파 및 케이블 Channel Scan 기능, Tv에 대한 전반적인 설정 기능, 시간 지정 또는 채널 지정 녹화 기능의 기능 개선 및 유지보수를 담당하였습니다.<br>
+          <mark>기술스택</mark><br>
+          - Java, Kotlin, Dagger, Hilt, DataBinding, Coroutine, Python, Ruby, ORACLE
           - Android Studio, Visual Studio Code, Appium
           - Github, Jenkins, AWS, JIRA, Counfluence, SourceTree, Astah, Microsoft Teams
 
@@ -78,11 +78,9 @@ content:
         quote: >
           Android Tv App 개발
         description: | # this will include new lines to allow paragraphs
-          Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.
-          Channel Scan, Tv Settings, 녹화 등의 기능을 담당하였습니다.
-          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.
-          기술스택
-          - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
+          
+          <mark>기술스택</mark><br>
+          - 
 
   - title: Experience(Korea) # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,7 +109,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark> : 일본 도쿄 <br>
           <mark>경험</mark> : 글로벌 대기업의 업무 프로세스 및 협업 능력을 배웠으며, 서브리더로써의 멤버 관리 경험을 익혔습니다.<br>
-          또한, Java 이외의 새로운 역량을 발전시키고자 안드로이드 앱 개발에 도전하여 Kotlin 및 Courtines과 같은 기술 역량을 배울 수 있었습니다.
+          또한, Java 이외의 새로운 역량을 발전시키고자 안드로이드 앱 개발에 도전하여 Kotlin 및 Coroutine 과 같은 기술 역량을 배울 수 있었습니다.
 
       - title: (주)Nuvo Cyber Business
         sub_title: BackEnd Developer

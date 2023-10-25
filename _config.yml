@@ -110,13 +110,13 @@ content:
       - layout: left
         title: 기술 스택
         description: >
-          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, SWING, Python, Ruby, ORACLE, MySQL, MSSQL, HIRDB
+          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, SWING, Python, Ruby, ORACLE, MySQL, MSSQL, HIRDB <br>
           - Xml, Json, Junit, DJunit, IBatis, MyBatis, Struts2, JPA, Spring, Dia(Spring) etc
 
       - title: 기타 툴
         description: >
-          - Eclipse, Android Studio, IntelliJ, VisualStudio Code, WSSD, RAD, Appium, Linux, Windows
-          - AWS, Jenkins, Git, Github, SVN, Jira, Confluence, SourceTree, Dooray, Flow, Redmine, ServiceNow, SalesForce
+          - Eclipse, Android Studio, IntelliJ, VisualStudio Code, WSSD, RAD, Appium, Linux, Windows <br>
+          - AWS, Jenkins, Git, Github, SVN, Jira, Confluence, SourceTree, Dooray, Flow, Redmine, ServiceNow, SalesForce <br>
           - Microsoft Teams, Slack etc
 
   - title: Education # Title for the section

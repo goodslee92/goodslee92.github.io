@@ -83,7 +83,7 @@ content:
           기술스택
           - Java, Kotlin, ORACLE, Github, SourceTree, Jenkins, AWS, JIRA
 
-  - title: Experience # Title for the section
+  - title: Experience(Korea) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -95,7 +95,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           description..
 
-      - title: (주)브릿지
+  - title: Experience(Japan) # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: (주)브릿지
         sub_title: Android App Developer, Web Application BackEnd Developer
         caption: December 2018 ~ March 2023
         quote: >

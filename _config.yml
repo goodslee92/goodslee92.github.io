@@ -28,11 +28,11 @@ instagram_username: jh._.zzzz
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 이 재화입니다. 
-  <mark>생년월일</mark>: 1992.11.20
-  <mark>연락처</mark>: 010-3021-4520
-  <mark>주소</mark>: 서울시 동작구 상도로54길 54
-  <mark>경력</mark>: 7년 2개월
+  안녕하세요. 이 재화입니다. <br>
+  <mark>생년월일</mark>: 1992.11.20 <br>
+  <mark>연락처</mark>: 010-3021-4520 <br>
+  <mark>주소</mark>: 서울시 동작구 상도로54길 54 <br>
+  <mark>경력</mark>: 7년 2개월 <br>
   
   시스템 개발 및 운영, 안드로이드 앱 개발, 프로젝트 관리 경험이 있는 백엔드 개발자입니다.
   
@@ -68,7 +68,7 @@ content:
         quote: >
           Android Smart Tv App 개발
         description: | # this will include new lines to allow paragraphs
-          <mark>소재지</mark>: 도쿄 오오사키 &nbsp <mark>업종</mark>: 통신업<br>
+          <mark>소재지</mark>: 도쿄 오오사키 <mark>업종</mark>: 통신업<br>
           <mark>업무 내용</mark>: Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트입니다.<br>
           MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 신규 개발하였습니다.<br>
           지상파 및 케이블 Channel Scan 기능, Tv에 대한 전반적인 설정 기능, 시간 지정 또는 채널 지정 녹화 기능의 기능 개선 및 유지보수를 담당하였습니다.<br>
@@ -83,7 +83,7 @@ content:
         quote: >
           주택, 빌딩 유통 견적 시스템 고도화 및 운영 유지보수
         description: | # this will include new lines to allow paragraphs
-          <mark>소재지</mark>: 도쿄 몬젠나카쵸 &nbsp <mark>업종</mark>: 유통업<br>
+          <mark>소재지</mark>: 도쿄 몬젠나카쵸 <mark>업종</mark>: 유통업<br>
           <mark>업무 내용</mark>: 건축 시공에 필요한 자재에 대해 재고 관리 및 발주 그리고 가견적 기능을 제공하는 시스템의 고도화 프로젝트입니다.<br> 
           신규 기능 추가 및 고객 문의 대응 및 유지보수를 담당하였습니다.
           <mark>기술 스택</mark><br>

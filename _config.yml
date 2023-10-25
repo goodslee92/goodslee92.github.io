@@ -104,6 +104,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           하기 프로젝트 참여.
 
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 기술 스택
+        #        sub_title:
+        quote: >
+          Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
+        description: | # this will include new lines to allow paragraphs
+
+      - title: 기타 툴
+        #        sub_title:
+        quote: >
+          Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
+        description: | # this will include new lines to allow paragraphs
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -123,24 +139,6 @@ content:
           <br>
         description: | # this will include new lines to allow paragraphs
           <br>
-
-  - title: Skills
-    layout: list
-    content:
-      - layout: top-middle
-        title: 기술 스택
-#        sub_title: Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
-        quote: >
-          Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
-        description: | # this will include new lines to allow paragraphs
-          Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
-
-      - title: 기타 툴
-#        sub_title: Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
-        quote: >
-          Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
-        description: | # this will include new lines to allow paragraphs
-          Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
 
   - title: 자격증
     layout: list

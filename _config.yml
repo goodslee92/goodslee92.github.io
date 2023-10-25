@@ -110,11 +110,12 @@ content:
       - layout: left
         title: 기술 스택
         description: >
-          Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
+          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, ORACLE, MySQL, MSSQL
+          - Xml, Json, Junit, DJunit, IBatis, MyBatis
 
       - title: 기타 툴
         description: >
-          Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
+          - Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -123,17 +124,12 @@ content:
         title: 영남이공대학교
         sub_title: 컴퓨터계열 시스템프로그래밍 전공
         caption: 2011 ~ 2016 <br> 졸업
-        quote: >
 
-        description: | # this will include new lines to allow paragraphs
-          
-      - title: 대구도원고등학교
+      - layout: top-middle
+        title: 대구도원고등학교
         sub_title: 인문계열
         cation: 2008 ~ 2011 <br> 졸업
-        quote: >
 
-        description: | # this will include new lines to allow paragraphs
-          
   - title: 자격증
     layout: list
     content:

@@ -110,8 +110,8 @@ content:
       - layout: left
         title: 기술 스택
         description: >
-          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, SWING, Python, Ruby, ORACLE, MySQL, MSSQL, HIRDB <br>
-          Xml, Json, Junit, DJunit, IBatis, MyBatis, Struts2, JPA, Spring, Dia(Spring) etc
+          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, SWING, Python, Ruby, ORACLE, MySQL, MSSQL, HIRDB
+          - Xml, Json, Junit, DJunit, IBatis, MyBatis, Struts2, JPA, Spring, Dia(Spring) etc
 
       - title: 기타 툴
         description: >

@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: 이 재화
 title: Senior BackEnd Developer
+address: 서울특별시 동작구 상도로54길 54, 이에스하임 1동
 email: leejh3810@gmail.com
 website: https://github.com/goodslee92
 
@@ -150,8 +151,9 @@ content:
     content:
       - layout: top-middle
         sub_title: |
-          "병역 \t\t\t 복무 기간 \t\t\t 계급 \t 비고"
-          "육군 \t 2012.05 ~ 2014.02 \t 병장 \t 만기제대" 
+          병역 : 육군 
+          복무 기간 : 2012.05 ~ 2014.02
+          계급 : 병장 만기 제대 
           
           시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다. <br><br>
           - 게임 <br>

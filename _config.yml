@@ -124,17 +124,17 @@ content:
         sub_title: 컴퓨터계열 시스템프로그래밍 전공
         caption: 2011 ~ 2016 <br> 졸업
         quote: >
-          소재지 : 대구
+
         description: | # this will include new lines to allow paragraphs
-          <br>
+          
 
       - title: 대구도원고등학교
         sub_title: 인문계열
         cation: 2008 ~ 2011 <br> 졸업
         quote: >
-          소재지 : 대구
+
         description: | # this will include new lines to allow paragraphs
-          <br>
+          
 
   - title: 자격증
     layout: list

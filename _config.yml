@@ -6,9 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 이 재화
+name: 이 재화 <br> 서울특별시 동작구 상도로54길 54, 이에스하임 1동
 title: Senior BackEnd Developer
-address: 서울특별시 동작구 상도로54길 54, 이에스하임 1동
 email: leejh3810@gmail.com
 website: https://github.com/goodslee92
 
@@ -58,7 +57,7 @@ content:
     layout: list
     content:
       - layout : left
-        title: Sony Android Smart Tv App Development
+        title: Sony Android Smart Tv App 개발
         sub_title:  Sub Leader, System Engineer
         caption: July 2020 - May 2023
         quote: >
@@ -72,11 +71,11 @@ content:
           - Android Studio, Visual Studio Code, Appium
           - Github, Jenkins, AWS, JIRA, Counfluence, SourceTree, Astah, Microsoft Teams
 
-      - title:
+      - title: 주택, 빌딩 유통 견적 시스템 개발 및 운영
         sub_title: System Engineer
-        caption: July 2020 - May 2023
+        caption: September 2019 ~ June 2020
         quote: >
-          Android Tv App 개발
+
         description: | # this will include new lines to allow paragraphs
           
           <mark>기술스택</mark><br>

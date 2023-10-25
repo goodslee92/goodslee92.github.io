@@ -110,12 +110,12 @@ content:
       - layout: left
         title: 기술 스택
         description: |
-          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, SWING, Python, Ruby, ORACLE, MySQL, MSSQL, HIRDB
-          - Xml, Json, Junit, DJunit, IBatis, MyBatis, Struts2, JPA, Spring, Dia(Spring) etc
+          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Python, ORACLE, MySQL, MSSQL, HIRDB
+          - Struts2, JPA, Spring, Dia(Spring), Xml, Json, IBatis, MyBatis, Junit, DJunit, Mock, MockK, PowerMock etc
 
       - title: 기타 툴
         description: |
-          - Eclipse, Android Studio, IntelliJ, VisualStudio Code, WSSD, RAD, Appium, Linux, Windows
+          - IntelliJ, Eclipse, Android Studio, VisualStudio Code, WSSD, RAD, Appium, Linux, Windows
           - AWS, Jenkins, Git, Github, SVN, Jira, Confluence, SourceTree, Dooray, Flow, Redmine, ServiceNow, SalesForce
           - Microsoft Teams, Slack etc
 
@@ -134,13 +134,15 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다.
-      - 게임
-      - 영화 감상
-      - 드라이브
-      - 당구
-      - 클레이 사격 등
+    content:
+      - layout: top-middle
+        content: |
+          시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다.
+          - 게임
+          - 영화 감상
+          - 드라이브
+          - 당구
+          - 클레이 사격 등
 
 # Footer
 footer_show_references: false

@@ -128,7 +128,7 @@ content:
       - layout: top-middle
         title: 대구도원고등학교
         sub_title: 인문계열
-        cation: 2008 ~ 2011 <br> 졸업
+        caption: 2008 ~ 2011 <br> 졸업
 
   - title: 자격증
     layout: list

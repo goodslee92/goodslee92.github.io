@@ -113,7 +113,8 @@ content:
           - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, SWING, Python, Ruby, ORACLE, MySQL, MSSQL, HIRDB <br>
           - Xml, Json, Junit, DJunit, IBatis, MyBatis, Struts2, JPA, Spring, Dia(Spring) etc
 
-      - title: 기타 툴
+      - layout: top-middle
+        title: 기타 툴
         sub_title: >
           - Eclipse, Android Studio, IntelliJ, VisualStudio Code, WSSD, RAD, Appium, Linux, Windows <br>
           - AWS, Jenkins, Git, Github, SVN, Jira, Confluence, SourceTree, Dooray, Flow, Redmine, ServiceNow, SalesForce <br>

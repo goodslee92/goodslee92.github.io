@@ -89,33 +89,39 @@ content:
     content:
       - layout: left
         title: 한국후지쯔(주)
-        sub_title: Project Leader, Web Application BackEnd Developer
+        sub_title: Project Leader, BackEnd Developer
         caption: August 2023 ~ Present
         quote: >
-          quote..
+          시스템 개발 및 운영.
+          프로젝트 관리 및 멤버 관리.
         description: | # this will include new lines to allow paragraphs
-          description..
+          
 
   - title: Experience(Japan) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: (주)브릿지
-        sub_title: Android App Developer, Web Application BackEnd Developer
+        sub_title: Android App Developer, BackEnd Developer
         caption: December 2018 ~ March 2023
         quote: >
-          웹 어플리케이션 개발 및 운영.
+          시스템 개발 및 운영.
           안드로이드 앱 개발 및 운영.
         description: | # this will include new lines to allow paragraphs
-          하기 프로젝트 참여.
+          <mark>소재지</mark> : 일본 도쿄
+          <mark>경험</mark> : 퍼포먼스 및 성과를 인정 받게 되어 큰 고객사 위주의 프로젝트에 스카웃 되었습니다.
+          글로벌 대기업의 업무 프로세스 및 협업 능력을 배웠으며, 서브리더로써의 멤버 관리 경험을 익혔습니다.
+          또한, Java 이외의 새로운 역량을 배우고자 안드로이드 앱 개발에 도전하여 Kotlin 및 Courtines과 같은 역량을 배울 수 있었습니다.
 
       - title: (주)Nuvo Cyber Business
-        sub_title:  System Engineer
+        sub_title: BackEnd Developer
         caption: July 2016 ~ November 2018
         quote: >
-          웹 어플리케이션 개발 및 운영.
+          시스템 개발 및 운영.
         description: | # this will include new lines to allow paragraphs
-          
+          <mark>소재지</mark> : 일본 도쿄
+          <mark>경험</mark> : 일본 기업에 신입 사원으로 입사 후, 현업에서 개발 능력과 외국어 능력을 병행하여 공부하였습니다. 
+          3년차가 되던 해에 4명의 멤버로 구성된 팀을 이끌어 프로젝트를 성황리에 마감할 수 있도록 리드하였습니다.
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)

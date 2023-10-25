@@ -109,11 +109,11 @@ content:
     content:
       - layout: left
         title: 기술 스택
-        quote: >
+        description: >
           Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Xml, Json, Junit, DJunit, IBatis, MyBatis etc
 
       - title: 기타 툴
-        quote: >
+        description: >
           Eclipse, Android Studio, IntelliJ, AWS, Jenkins, Git, Github, SVN, Jira, Redmine, SourceTree etc
 
   - title: Education # Title for the section
@@ -127,7 +127,6 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           
-
       - title: 대구도원고등학교
         sub_title: 인문계열
         cation: 2008 ~ 2011 <br> 졸업
@@ -135,7 +134,6 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           
-
   - title: 자격증
     layout: list
     content:

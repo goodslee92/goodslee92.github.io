@@ -122,14 +122,15 @@ content:
       - layout: left
         title: 기술 스택
         description: |
-          - Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Python, ORACLE, MySQL, MSSQL, HIRDB
-          - Struts2, JPA, Spring, Dia(Spring), Xml, Json, IBatis, MyBatis, Junit, DJunit, Mock, MockK, PowerMock etc
+          - <mark>개발 언어 : </mark>Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Python 
+          - <mark>SQL : </mark>ORACLE, MySQL, MSSQL, HIRDB, DB2
 
-      - title: 기타 툴
+      - title: 기타
         description: |
-          - IntelliJ, Eclipse, Android Studio, VisualStudio Code, WSSD, RAD, Appium, Linux, Windows
-          - AWS, Jenkins, Git, Github, SVN, Jira, Confluence, SourceTree, Dooray, Flow, Redmine, ServiceNow, SalesForce
-          - Microsoft Teams, Slack etc
+          - <mark>IDEA : </mark>IntelliJ, Eclipse, Android Studio, VisualStudio Code, WSSD, RAD, SSMS
+          - <mark>형상관리 : </mark>AWS, Jenkins, Git, Github, SVN
+          - <mark>협업툴 : </mark>Jira, Confluence, SourceTree, Microsoft Teams, Slack, Dooray, Flow, Redmine, ServiceNow, SalesForce
+          - <mark>기타 : </mark>Spring, Dia(Spring), Struts2, JPA, Xml, Json, IBatis, MyBatis, Junit, DJunit, PowerMock etc
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

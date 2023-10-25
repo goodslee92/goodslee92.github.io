@@ -122,7 +122,7 @@ content:
       - layout: left
         title: 기술 스택
         description: |
-          - <mark>언어</mark> : Java, Kotlin, JavaScript, Jsp, Jquery, HTML/CSS, Python 
+          - <mark>언어</mark> : Java, Kotlin, Python 
           - <mark>RDBMS</mark> : ORACLE, MySQL, MSSQL, HIRDB, DB2, SSMS
 
       - title: 기타
@@ -130,7 +130,7 @@ content:
           - <mark>IDEA</mark> : IntelliJ, Eclipse, Android Studio, VisualStudio Code, WSSD, RAD
           - <mark>형상관리</mark> : AWS, Jenkins, Git, Github, SVN
           - <mark>협업툴</mark> : Jira, Confluence, SourceTree, Teams, Slack, Dooray, Flow, Redmine, ServiceNow, SalesForce
-          - <mark>기타</mark> : Spring, Dia, Struts2, JPA, Xml, Json, IBatis, MyBatis, Junit, DJunit, PowerMock
+          - <mark>기타</mark> : JavaScript, Jsp, Jquery, HTML/CSS, Spring, Dia, Struts2, JPA, IBatis, MyBatis, Xml, Json, Junit, DJunit, PowerMock
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

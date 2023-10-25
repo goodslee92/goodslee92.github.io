@@ -95,7 +95,8 @@ content:
           시스템 개발 및 운영.
           프로젝트 관리 및 멤버 관리.
         description: | # this will include new lines to allow paragraphs
-          
+          <mark>소재지</mark> : 서울 종로구 <br>
+          <mark>경험</mark> : TODO
 
   - title: Experience(Japan) # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,21 +107,20 @@ content:
         caption: December 2018 ~ March 2023
         quote: >
           시스템 개발 및 운영.
-          안드로이드 앱 개발 및 운영.
+          안드로이드 앱 개발 및 운영유지보수.
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark> : 일본 도쿄 <br>
-          <mark>경험</mark> : 퍼포먼스 및 성과를 인정 받게 되어 큰 고객사 위주의 프로젝트에 스카웃 되었습니다.
-          글로벌 대기업의 업무 프로세스 및 협업 능력을 배웠으며, 서브리더로써의 멤버 관리 경험을 익혔습니다.
-          또한, Java 이외의 새로운 역량을 배우고자 안드로이드 앱 개발에 도전하여 Kotlin 및 Courtines과 같은 역량을 배울 수 있었습니다.
+          <mark>경험</mark> : 글로벌 대기업의 업무 프로세스 및 협업 능력을 배웠으며, 서브리더로써의 멤버 관리 경험을 익혔습니다.<br>
+          또한, Java 이외의 새로운 역량을 발전시키고자 안드로이드 앱 개발에 도전하여 Kotlin 및 Courtines과 같은 기술 역량을 배울 수 있었습니다.
 
       - title: (주)Nuvo Cyber Business
         sub_title: BackEnd Developer
         caption: July 2016 ~ November 2018
         quote: >
-          시스템 개발 및 운영.
+          시스템 개발 및 운영유지보수.
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark> : 일본 도쿄 <br>
-          <mark>경험</mark> : 일본 기업에 신입 사원으로 입사 후, 현업에서 개발 능력과 외국어 능력을 병행하여 공부하였습니다. 
+          <mark>경험</mark> : 일본 기업에 신입 사원으로 입사 후, 현업에서 개발 능력과 외국어 능력을 병행하여 공부하였습니다. <br>
           3년차가 되던 해에 4명의 멤버로 구성된 팀을 이끌어 프로젝트를 성황리에 마감할 수 있도록 리드하였습니다.
 
   - title: Skills # Title for the section
@@ -157,11 +157,11 @@ content:
     content:
       - layout: top-middle
         sub_title: |
-          병역 : 육군 
-          복무 기간 : 2012.05 ~ 2014.02
+          병역 : 육군 <br>
+          복무 기간 : 2012.05 ~ 2014.02 <br>
           계급 : 병장 만기 제대 <br><br>
           
-          시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다. <br><br>
+          시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다. <br>
           - 게임 <br>
           - 영화 감상 <br>
           - 드라이브 <br>

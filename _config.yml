@@ -69,7 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark>: 도쿄 오오사키 <mark>업종</mark>: 통신업<br>
           <mark>업무 내용</mark>: Sony Android Smart Tv에 내장되는 Tv 관련 앱 개발 프로젝트.<br>
-          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 마이그레이션 하여 신규 개발.<br>
+          MVC 디자인 패턴의 기존 Java 코드를 MVVM 디자인 패턴의 Kotlin 코드로 마이그레이션 하여 신규 개발.
           지상파 및 케이블 Channel Scan 기능, Tv에 대한 전반적인 설정 기능, 시간 지정 또는 채널 지정 녹화 기능의 신규 개발 및 기능 개선, 유지보수를 담당.<br>
           <mark>기술 스택</mark><br>
           - Java, Kotlin, Dagger, Hilt, DataBinding, Coroutine, Python, Ruby, ORACLE
@@ -83,8 +83,8 @@ content:
           주택, 빌딩 유통 견적 시스템 고도화 및 운영 유지보수
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark>: 도쿄 카치도키 <mark>업종</mark>: 유통업<br>
-          <mark>업무 내용</mark>: 건축 시공에 필요한 자재에 대해 재고 관리 및 발주 그리고 가견적 기능을 제공하는 시스템의 고도화 프로젝트.<br> 
-          신규 기능 추가 및 기능 개선 및 유지보수를 담당.
+          <mark>업무 내용</mark>: 건축 시공에 필요한 자재에 대해 재고 관리 및 발주 그리고 가견적 기능을 제공하는 시스템의 고도화 프로젝트.
+          신규 기능 추가 및 기능 개선 및 유지보수를 담당.<br>
           <mark>기술 스택</mark><br>
           - Java, Jsp, JavaScript, Swing, Struts2, Oracle
           - Eclipse, IBM WebSphere Studio Application Developer, SVN, Jenkins, ServiceNow, SalesForce
@@ -96,8 +96,8 @@ content:
           도쿄 전력 신규 시스템 개발
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark>: 도쿄 몬젠나카쵸 <mark>업종</mark>: 전력<br>
-          <mark>업무 내용</mark>: 민영 전력 회사와의 전력 중개 서비스를 제공하는 시스템의 신규 개발 프로젝트.<br>
-          전력 사용 개시, 중지, 암페어 번경 기능의 설계, 개발을 담당.
+          <mark>업무 내용</mark>: 민영 전력 회사와의 전력 중개 서비스를 제공하는 시스템의 신규 개발 프로젝트.
+          전력 사용 개시, 중지, 암페어 번경 기능의 설계, 개발을 담당.<br>
           <mark>기술 스택</mark><br>
           - Java, Jsp, JavaScript, Xml, Oracle
           - Eclipse, Dia(Spring), Git, Jira
@@ -109,8 +109,8 @@ content:
           일본 생명의 401K 연금 서비스 시스템 고도화 및 운영
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark>: 도쿄 카마타 <mark>업종</mark>: 연금<br>
-          <mark>업무 내용</mark>: 일본의 대표적 연금 서비스 중 하나인 401K를 제공하는 일본 생명의 시스템 고도화 프로젝트.<br>
-          신규 기능 추가 및 기능 개선, 운영 유지 보수를 담당.
+          <mark>업무 내용</mark>: 일본의 대표적 연금 서비스 중 하나인 401K를 제공하는 일본 생명의 시스템 고도화 프로젝트.
+          신규 기능 추가 및 기능 개선, 운영 유지 보수를 담당.<br>
           <mark>기술 스택</mark><br>
           - Java, Jsp, JavaScript, Xml, IBM DB2
           - Eclipse, Embarcadero RAD Studio, Struts2, Svn, Redmine
@@ -122,8 +122,8 @@ content:
           일본 생명의 보험 상품 판매 및 공제액 산정 시스템 개발
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark>: 도쿄 카와사키 <mark>업종</mark>: 보험<br>
-          <mark>업무 내용</mark>: 일본 생명에서 판매하는 보험의 여러 상품을 비교 분석하고 공제액을 산정해 볼 수 있는 시스템의 개발 프로젝트.<br>
-          상품 소개, 각 상품의 조건에 맞는 공제액 산출 기능의 설계 및 개발을 담당.          
+          <mark>업무 내용</mark>: 일본 생명에서 판매하는 보험의 여러 상품을 비교 분석하고 공제액을 산정해 볼 수 있는 시스템의 개발 프로젝트.
+          상품 소개, 각 상품의 조건에 맞는 공제액 산출 기능의 설계 및 개발을 담당.<br>     
           <mark>기술 스택</mark><br>
           - Java, Jsp, JavaScript, Xml, Oracle
           - Eclipse, Spring, Junit, Vba
@@ -135,8 +135,8 @@ content:
           MIZUHO 은행의 무역,외환 시스템 개발
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark>: 도쿄 도쿄/시나가와 시사이드 <mark>업종</mark>: 금융<br>
-          <mark>업무 내용</mark>: 일본 3대 은행인 MIZUHO은행의 무역 외환 시스템 개발 프로젝트. <br>
-          수출 및 수입을 위한 어음 발행, 상품 선적서 작성, 해외 은행과의 거래 계약, 대금 결제 기능의 개발 및 통합테스트를 담당.
+          <mark>업무 내용</mark>: 일본 3대 은행인 MIZUHO은행의 무역 외환 시스템 개발 프로젝트.
+          수출 및 수입을 위한 어음 발행, 상품 선적서 작성, 해외 은행과의 거래 계약, 대금 결제 기능의 개발 및 통합테스트를 담당.<br>
           <mark>기술 스택</mark><br>
           - Java, Hitachi HIRDB, DJunit, Eclipse, Svn, Redmine
 
@@ -190,7 +190,7 @@ content:
 
       - title: 기타
         description: |
-          - <mark>IDE</mark> : IntelliJ, Eclipse, Android Studio, VisualStudio Code, IBM WebSphere Studio Application Developer, Embarcadero RAD Studio
+          - <mark>IDE</mark> : IntelliJ, Eclipse, Android Studio, VisualStudio Code, IBM WebSphere Studio Application Developer,       Embarcadero RAD Studio
           - <mark>형상관리</mark> : AWS, Jenkins, Git, Github, SVN
           - <mark>협업툴</mark> : Jira, Confluence, SourceTree, Teams, Slack, Dooray, Flow, Redmine, ServiceNow, SalesForce
           - <mark>기타</mark> : JavaScript, Jsp, Jquery, HTML/CSS, Spring, Dia, Struts2, JPA

@@ -87,7 +87,7 @@ content:
           신규 기능 추가 및 고객 문의 대응 및 유지보수를 담당.
           <mark>기술 스택</mark><br>
           - Java, Jsp, JavaScript, Swing, Struts2, Oracle
-          - Eclipse, WSSD, SVN, Jenkins, ServiceNow, SalesForce
+          - Eclipse, IBM WebSphere Studio Application Developer, SVN, Jenkins, ServiceNow, SalesForce
 
       - title: 전력 스위칭 시스템 개발
         sub_title: System Engineer
@@ -113,7 +113,7 @@ content:
           신규 기능 추가 및 기능 개선, 운영 유지 보수를 담당.
           <mark>기술 스택</mark><br>
           - Java, Jsp, JavaScript, Xml, IBM DB2
-          - Eclipse, Android Studio, RAD, Struts2, Ibatis, Svn, Redmine
+          - Eclipse, Android Studio, Embarcadero RAD Studio, Struts2, Ibatis, Svn, Redmine
 
       - title: 보험 공제 시스템 개발
         sub_title: System Engineer
@@ -138,7 +138,7 @@ content:
           <mark>업무 내용</mark>: 일본 3대 은행인 MIZUHO은행의 무역 외환 시스템 개발 프로젝트. <br>
           수출 및 수입을 위한 어음 발행, 상품 선적, 해외 은행과의 거래 계약, 대금 결제 기능의 개발 및 통합테스트를 담당.
           <mark>기술 스택</mark><br>
-          - Java, DJunit, Eclipse, Svn, Redmine
+          - Java, Hitachi HIRDB, DJunit, Eclipse, Svn, Redmine
 
   - title: Experience(Korea) # Title for the section
     layout: list # Type of content section (list/text)
@@ -190,10 +190,10 @@ content:
 
       - title: 기타
         description: |
-          - <mark>IDEA</mark> : IntelliJ, Eclipse, Android Studio, VisualStudio Code, WSSD, RAD
+          - <mark>IDE</mark> : IntelliJ, Eclipse, Android Studio, VisualStudio Code, IBM WebSphere Studio Application Developer, Embarcadero RAD Studio
           - <mark>형상관리</mark> : AWS, Jenkins, Git, Github, SVN
           - <mark>협업툴</mark> : Jira, Confluence, SourceTree, Teams, Slack, Dooray, Flow, Redmine, ServiceNow, SalesForce
-          - <mark>기타</mark> : JavaScript, Jsp, Jquery, HTML/CSS, Spring, Dia, Struts2, JPA, IBatis, MyBatis, Xml, Json, Junit, DJunit, PowerMock
+          - <mark>기타</mark> : JavaScript, Jsp, Jquery, HTML/CSS, Spring, Dia, Struts2, JPA
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -217,7 +217,7 @@ content:
           복무 기간 : 2012.05 ~ 2014.02 <br>
           계급 : 병장 만기 제대 <br><br>
           
-          시스템 개발 및 안드로이드 앱 개발에 대한 저의 관심과 함께 저의 다른 관심과 취미는 다음과 같습니다. <br>
+          프로그래밍에 대한 저의 관심과 함께 다른 관심과 취미는 다음과 같습니다. <br>
           - 게임 <br>
           - 영화 감상 <br>
           - 드라이브 <br>

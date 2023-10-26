@@ -1,1 +1,2 @@
-# goodslee92.github.io
+# 이력서
+goodslee92.github.io

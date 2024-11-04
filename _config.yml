@@ -46,16 +46,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BGF Global Back Office System
-        sub_title: Project Leader, Senior BackEnd Developer
+        title: BGF Global Back Office/POS System
+        sub_title: PMO, Application Architect, Senior BackEnd Developer
         caption: August 2023 - Present
         quote: >
           BGF글로벌 백 오피스 시스템 운영 및 관리
         description: | # this will include new lines to allow paragraphs
-          BGF글로벌 카자흐스탄, 몽골, 베트남 등 백오피스 시스템의 설계, 개발, 테스트, 오픈, 운영 및 멤버 관리를 담당. <br>
+          BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 AA 및 PMO 역할을 수행했습니다. <br>
           <br><mark>기술스택</mark><br>
-          - Java, JSP/Servlet, AxBoot, MSSQL
-          - SSMS, Eclipse, IntelliJ, Git, SVN, Dooray, Slack, Microsoft Teams
+          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
+
+      - title: 마리오아울렛 영업관리 시스템 리뉴얼
+        sub_title: PMO, Application Architect, Senior BackEnd Developer
+        caption: April 2024 - Present
+        quote: >
+          영업관리 시스템 재구축 및 관리
+        description: | # this will include new lines to allow paragraphs
+          아울렛 버전의 BackOffice 및 POS 시스템의 AA 역할 수행 <br>
+          하드웨어, 서버 등 전반적인 인프라 관리 및 영업관리 기능 개발 수행 <br> 
+          <br><mark>기술스택</mark><br>
+          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
 
   - title: Projects(Japan)
     layout: list

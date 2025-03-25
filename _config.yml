@@ -44,16 +44,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BGF Global Back Office/POS System
-        sub_title: PMO, Application Architect, Senior BackEnd Developer
-        caption: August 2023 - Present
+        title: 코리아세븐 택배단말기 시스템 구축
+        sub_title: PM
+        caption: february 2025 - Present
         quote: >
-          BGF글로벌 백 오피스 시스템 운영 및 관리
+          택배단말기 시스템 구축 및 사업관리
         description: | # this will include new lines to allow paragraphs
-          BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 AA 및 PMO 역할을 수행했습니다. <br>
-          공통 기술 지원을 서포트 했습니다. <br>
-          <br><mark>기술스택</mark><br>
-          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
+          편의점 택배단말기 시스템 구축 프로젝트의 사업 및 리스크 관리 <br>
+          아키텍쳐 설계, 고객과 업무 협의, 투입 인력 관리, 스케줄 및 리스크 관리 <br> 
 
       - title: 아울렛 영업관리 시스템 리뉴얼
         sub_title: PMO, Application Architect, Senior BackEnd Developer
@@ -66,14 +64,16 @@ content:
           <br><mark>기술스택</mark><br>
           - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
           
-      - title: 코리아세븐 택배단말기 시스템 구축
-        sub_title: PM
-        caption: february 2025 - Present
+      - title: BGF Global Back Office/POS System
+        sub_title: PMO, Application Architect, Senior BackEnd Developer
+        caption: August 2023 - Present
         quote: >
-          택배단말기 시스템 구축 및 사업관리
+          BGF글로벌 백 오피스 시스템 운영 및 관리
         description: | # this will include new lines to allow paragraphs
-          편의점 택배단말기 시스템 구축 프로젝트의 사업 및 리스크 관리 <br>
-          아키텍쳐 설계, 고객과 업무 협의, 투입 인력 관리, 스케줄 및 리스크 관리 <br> 
+          BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 AA 및 PMO 역할을 수행했습니다. <br>
+          공통 기술 지원을 서포트 했습니다. <br>
+          <br><mark>기술스택</mark><br>
+          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
           
   - title: Projects(Japan)
     layout: list

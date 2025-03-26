@@ -42,12 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: 세부 경력기술서
     layout: text
-    content:
-      - layout: center
-        title:
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          [📄 경력기술서 다운로드](downloads/세부_경력기술서_이재화.pdf)
+                  [📄 경력기술서 다운로드](downloads/세부_경력기술서_이재화.pdf)
       
   - title: Projects(Korea) # Title for the section
     layout: list # Type of content section (list/text)

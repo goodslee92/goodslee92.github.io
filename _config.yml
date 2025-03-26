@@ -71,7 +71,7 @@ content:
           아울렛 버전의 BackOffice 및 POS 시스템의 AA 역할 수행 <br>
           하드웨어, 서버 등 전반적인 인프라 관리 및 영업관리 기능 개발 수행 <br> 
           <br><mark>기술스택</mark><br>
-          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
+          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN, Jenkins, Azure
           
       - title: BGF Global Back Office/POS System
         sub_title: PMO, Application Architect, Senior BackEnd Developer
@@ -83,7 +83,7 @@ content:
           BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 AA 및 PMO 역할을 수행했습니다. <br>
           공통 기술 지원을 서포트 했습니다. <br>
           <br><mark>기술스택</mark><br>
-          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN Etc..
+          - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN, AWS E2C, AWS S3
           
   - title: Projects(Japan)
     layout: list

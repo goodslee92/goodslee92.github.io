@@ -40,14 +40,18 @@ about_content: | # this will include new lines to allow paragraphs
   저의 주요 기술 스택은 <mark>Java, JavaScript</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대해 끊임없이 탐구하고 도전하는 정신</mark> 입니다.
   <br>
 content:
-  - title: 세부 경력기술서 & 자기소개서
-    layout: text
-    content: |
-      <p style="text-align: center;">
-        <a href="downloads/세부_경력기술서_이재화.pdf" download>📄 경력기술서</a>
-           &   
-        <a href="downloads/자기소개서_이재화.pdf" download>📄 자기소개서</a>
-      </p>
+  - title: 경력기술서 & 자기소개서
+    layout: list
+    content:
+      - layout: top-middle
+        sub_title: |
+          [📄 경력기술서](downloads/세부_경력기술서_이재화.pdf) & [📄 자기소개서](downloads/자기소개서_이재화.pdf)
+      #    layout: text
+#    content: |
+#      <p style="text-align: center;">
+#        <a href="downloads/세부_경력기술서_이재화.pdf" download>📄 경력기술서</a>&
+#        <a href="downloads/자기소개서_이재화.pdf" download>📄 자기소개서</a>
+#      </p>
       
   - title: Projects(Korea) # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,8 +86,8 @@ content:
           BGF글로벌 백 오피스 시스템 운영 및 관리
         description: | # this will include new lines to allow paragraphs
           <br><mark>개요</mark><br>
-          BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 AA 및 PMO 역할을 수행했습니다. <br>
-          공통 기술 지원을 서포트 했습니다. <br>
+          BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 PMO 역할을 수행 <br>
+          AA 역할 수행(인프라 및 공통 기술 지원) <br>
           <br><mark>기술스택</mark><br>
           - Java, JSP/Servlet, AxBoot, MSSQL, Git, SVN, AWS E2C, AWS S3
           
@@ -180,19 +184,20 @@ content:
     content:
       - layout: left
         title: 한국후지쯔(주)
-        sub_title: PMO, Application Architect, Senior BackEnd Developer
+        sub_title: PM, PMO, Application Architect, Senior BackEnd Developer
         caption: August 2023 ~ Present
         quote: >
-          시스템 개발 및 운영.
-          프로젝트 관리 및 멤버 관리.
-          하드웨어, 서버 및 전반적인 인프라 관리.
-          사업추진 관리.
+          유통 솔루션 시스템 개발 및 운영
+          프로젝트 리딩과 리스크 관리 및 투입인력 관리
+          하드웨어, 서버 및 전반적인 인프라 관리
+          사업추진 관리
         description: | # this will include new lines to allow paragraphs
           <mark>소재지</mark> : 서울 종로구 <br>
-          <mark>경험</mark> : 신규 고객사 RFP 분석 및 제안 작업을 통한 프로젝트 수주와 추진. <br>
-          전반적인 서버세팅 (CI/CD,WebWas,Db,방화벽,네트워크,배포환경 등). <br>
-          투입인력 및 공수견적과 리스크 관리. <br>
-          WBS 및 개발진척 관리. <br>
+          <mark>경험</mark> : 
+          신규 고객사 RFP 분석 및 제안 작업을 통한 프로젝트 수주와 추진 <br>
+          전반적인 공통 업무(공통기술 지원, CI/CD, 서버 및 인프라 관리, WebWas, Db, 방화벽, 네트워크, 배포 환경 등) <br>
+          PJ PM, PMO, 사업관리(투입인력 및 리스크 관리, 자금관리) <br>
+          신규 프로젝트 PM 수행(인력, 스케줄, 리스크 관리, 설계, 고객업무협의 <br>
 
   - title: Experience(Japan) # Title for the section
     layout: list # Type of content section (list/text)

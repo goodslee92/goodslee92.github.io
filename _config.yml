@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   <br>
 content:
   - title: 경력기술서 & 자기소개서
-    layout: list
+    layout: text
     content:
       - layout: top-middle
         description: |

@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>생년월일</mark>: 1992-11-20 <br>
   <mark>연락처</mark>: 010-3021-4520 <br>
   <mark>주소</mark>: 서울시 동작구 상도로54길 54 <br>
-  <mark>경력</mark>: {% include calculate_experience.html %}
+  <mark>경력</mark>: 8년 5개월
   
   웹 시스템 개발 및 안드로이드 앱 개발, 운영 경험을 가진 Application Architect이자, 사업 및 프로젝트 관리 경험이 풍부한 PMO입니다.
   다양한 회사에서 팀워크와 리더십 역량을 강화해왔으며, 특히 일본 도쿄에서 7년간 금융, 보험, 연금, 전력, 통신, 유통 분야 등 다양한 산업에서 글로벌 경험을 쌓으며 새로운 기술과 트렌드에 도전했습니다. 
@@ -40,9 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
   저의 주요 기술 스택은 <mark>Java, JavaScript</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대해 끊임없이 탐구하고 도전하는 정신</mark> 입니다.
   <br>
 content:
-#  - title: 세부 경력기술서
-#    description: |
-#      [📄 경력기술서 다운로드](downloads/resume.pdf)
+  - title: 세부 경력기술서
+    content:
+      - layout: left
+        title:
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          [📄 경력기술서 다운로드](downloads/resume.pdf)
       
   - title: Projects(Korea) # Title for the section
     layout: list # Type of content section (list/text)
@@ -54,8 +58,9 @@ content:
         quote: >
           택배단말기 시스템 구축 및 사업관리
         description: | # this will include new lines to allow paragraphs
-          편의점 택배단말기 시스템 구축 프로젝트의 사업 및 리스크 관리 <br>
-          아키텍쳐 설계, 고객과 업무 협의, 투입 인력 관리, 스케줄 및 리스크 관리 <br> 
+          <br><mark>개요</mark><br>
+          편의점 택배단말기 시스템 구축 프로젝트 리딩<br>
+          아키텍쳐 설계, 고객과 업무 협의, 투입 인력 관리, 스케줄 및 리스크 관리 <br>
 
       - title: 아울렛 영업관리 시스템 리뉴얼
         sub_title: PMO, Application Architect, Senior BackEnd Developer
@@ -63,6 +68,7 @@ content:
         quote: >
           영업관리 시스템 재구축 및 관리
         description: | # this will include new lines to allow paragraphs
+          <br><mark>개요</mark><br>
           아울렛 버전의 BackOffice 및 POS 시스템의 AA 역할 수행 <br>
           하드웨어, 서버 등 전반적인 인프라 관리 및 영업관리 기능 개발 수행 <br> 
           <br><mark>기술스택</mark><br>
@@ -74,6 +80,7 @@ content:
         quote: >
           BGF글로벌 백 오피스 시스템 운영 및 관리
         description: | # this will include new lines to allow paragraphs
+          <br><mark>개요</mark><br>
           BGF글로벌 3개 국가의 BackOffice 및 POS 시스템의 AA 및 PMO 역할을 수행했습니다. <br>
           공통 기술 지원을 서포트 했습니다. <br>
           <br><mark>기술스택</mark><br>

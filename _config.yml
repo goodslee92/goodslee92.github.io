@@ -41,9 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
   <br>
 
 content:
-  - title: 세부 경력기술서
-    description: |
-      [📄 경력기술서 다운로드](downloads/resume.pdf)
+#  - title: 세부 경력기술서
+#    description: |
+#      [📄 경력기술서 다운로드](downloads/resume.pdf)
       
   - title: Projects(Korea) # Title for the section
     layout: list # Type of content section (list/text)

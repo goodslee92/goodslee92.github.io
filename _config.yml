@@ -40,11 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
   저의 주요 기술 스택은 <mark>Java, JavaScript</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대해 끊임없이 탐구하고 도전하는 정신</mark> 입니다.
   <br>
 content:
-  - title: 세부 경력기술서
+  - title: 세부 경력기술서 & 자기소개서
     layout: text
     content: |
       <p style="text-align: center;">
         <a href="downloads/세부_경력기술서_이재화.pdf" download>📄 경력기술서 다운로드</a>
+      <a href="downloads/자기소개서_이재화.pdf" download>📄 자기소개서 다운로드</a>
       </p>
       
   - title: Projects(Korea) # Title for the section

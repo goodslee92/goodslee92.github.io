@@ -11,4 +11,4 @@
 {% assign total_months = total_months | plus: 12 %}
 {% endif %}
 
-{% assign experience = total_years | append: "년 " | append: total_months | append: "개월" %}
+{{ total_years }}년 {{ total_months }}개월

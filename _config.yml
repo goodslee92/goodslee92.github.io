@@ -44,7 +44,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        sub_title: |
+        description: |
           [📄 경력기술서](downloads/세부_경력기술서_이재화.pdf) & [📄 자기소개서](downloads/자기소개서_이재화.pdf)
       #    layout: text
 #    content: |

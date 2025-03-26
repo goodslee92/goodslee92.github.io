@@ -32,14 +32,19 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>생년월일</mark>: 1992-11-20 <br>
   <mark>연락처</mark>: 010-3021-4520 <br>
   <mark>주소</mark>: 서울시 동작구 상도로54길 54 <br>
-  <mark>경력</mark>: 8년 8개월 <br>
+  <mark>경력</mark>: {{ site.time | date: "%Y" | minus: 2016 }}년 {{ site.time | date: "%-m" | plus: 6 | modulo: 12 }}개월
   
   웹 시스템 개발 및 안드로이드 앱 개발, 운영 경험을 가진 Application Architect이자, 사업 및 프로젝트 관리 경험이 풍부한 PMO입니다.
   다양한 회사에서 팀워크와 리더십 역량을 강화해왔으며, 특히 일본 도쿄에서 7년간 금융, 보험, 연금, 전력, 통신, 유통 분야 등 다양한 산업에서 글로벌 경험을 쌓으며 새로운 기술과 트렌드에 도전했습니다. 
   현재 국내에서는 유통 솔루션 기반의 SI 및 SM 프로젝트를 통해 폭넓은 시스템 운영 및 유지보수 역량을 발전시키고 있습니다.
   저의 주요 기술 스택은 <mark>Java, JavaScript</mark> 와 <mark>Kotlin</mark> 그리고 <mark>새로운 기술에 대해 끊임없이 탐구하고 도전하는 정신</mark> 입니다.
+  <br>
 
 content:
+  - title: 세부 경력기술서
+    description: |
+      [📄 경력기술서 다운로드](downloads/resume.pdf)
+      
   - title: Projects(Korea) # Title for the section
     layout: list # Type of content section (list/text)
     content:

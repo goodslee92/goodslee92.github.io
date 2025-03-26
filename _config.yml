@@ -32,21 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>생년월일</mark>: 1992-11-20 <br>
   <mark>연락처</mark>: 010-3021-4520 <br>
   <mark>주소</mark>: 서울시 동작구 상도로54길 54 <br>
-  
-  {% assign current_year = site.time | date: "%Y" | plus: 0 %}
-  {% assign current_month = site.time | date: "%-m" | plus: 0 %}
-  {% assign start_year = 2016 %}
-  {% assign start_month = 6 %}
-
-  {% assign total_years = current_year | minus: start_year %}
-  {% assign total_months = current_month | minus: start_month %}
-
-  {% if total_months < 0 %}
-    {% assign total_years = total_years | minus: 1 %}
-    {% assign total_months = total_months | plus: 12 %}
-  {% endif %}
-  
-  <mark>경력</mark>: {{ total_years }}년 {{ total_months }}개월
+  <mark>경력</mark>: {% include calculate_experience.html %}{{ experience }}
   
   웹 시스템 개발 및 안드로이드 앱 개발, 운영 경험을 가진 Application Architect이자, 사업 및 프로젝트 관리 경험이 풍부한 PMO입니다.
   다양한 회사에서 팀워크와 리더십 역량을 강화해왔으며, 특히 일본 도쿄에서 7년간 금융, 보험, 연금, 전력, 통신, 유통 분야 등 다양한 산업에서 글로벌 경험을 쌓으며 새로운 기술과 트렌드에 도전했습니다. 
